@@ -25,6 +25,7 @@ while(x < 1000):
             tags.__len__()  # save the occurrence
 
     x += 1
+    print("search number " + x)
 
 print(numbersOfNumbers)
 
