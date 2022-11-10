@@ -1,5 +1,5 @@
 # Frequency-of-numbers-in-Wikipedia
-BeautifulSoup, requests and matplotlib are used
+Results for 10000 searches
 ![alt text](chart.png)
 
-Results for 10000 searches
+BeautifulSoup, requests and matplotlib are used
